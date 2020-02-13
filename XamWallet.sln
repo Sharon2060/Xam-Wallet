@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamWallet.Android", "XamWal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamWallet.iOS", "XamWallet\XamWallet.iOS\XamWallet.iOS.csproj", "{6A44CE96-4FD9-4488-A5D5-0E78C7863178}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamWallet", "XamWallet\XamWallet\XamWallet.csproj", "{935597B6-41F7-4E6B-B7B1-4E21766AD5C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamWallet", "XamWallet\XamWallet\XamWallet.csproj", "{935597B6-41F7-4E6B-B7B1-4E21766AD5C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
