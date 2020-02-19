@@ -18,5 +18,8 @@
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Views\" />
+    <Folder Include="Views\SignIn\" />
+    <Folder Include="Assets\" />
+    <Folder Include="Assets\Images\" />
   </ItemGroup>
 </Project>
